@@ -1,0 +1,8 @@
+D:\Soft\Microsoft Visual Studio\Projects\Tests\ZubnoyMassiv\ZubnoyMassiv\bin\Debug\ZubnoyMassiv.exe.config
+D:\Soft\Microsoft Visual Studio\Projects\Tests\ZubnoyMassiv\ZubnoyMassiv\bin\Debug\ZubnoyMassiv.exe
+D:\Soft\Microsoft Visual Studio\Projects\Tests\ZubnoyMassiv\ZubnoyMassiv\bin\Debug\ZubnoyMassiv.pdb
+D:\Soft\Microsoft Visual Studio\Projects\Tests\ZubnoyMassiv\ZubnoyMassiv\obj\Debug\ZubnoyMassiv.csproj.AssemblyReference.cache
+D:\Soft\Microsoft Visual Studio\Projects\Tests\ZubnoyMassiv\ZubnoyMassiv\obj\Debug\ZubnoyMassiv.csproj.SuggestedBindingRedirects.cache
+D:\Soft\Microsoft Visual Studio\Projects\Tests\ZubnoyMassiv\ZubnoyMassiv\obj\Debug\ZubnoyMassiv.csproj.CoreCompileInputs.cache
+D:\Soft\Microsoft Visual Studio\Projects\Tests\ZubnoyMassiv\ZubnoyMassiv\obj\Debug\ZubnoyMassiv.exe
+D:\Soft\Microsoft Visual Studio\Projects\Tests\ZubnoyMassiv\ZubnoyMassiv\obj\Debug\ZubnoyMassiv.pdb

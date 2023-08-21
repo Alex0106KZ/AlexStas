@@ -1,0 +1,8 @@
+D:\Soft\Microsoft Visual Studio\Projects\Tests\3 demention array\3 demention array\bin\Debug\3 demention array.exe.config
+D:\Soft\Microsoft Visual Studio\Projects\Tests\3 demention array\3 demention array\bin\Debug\3 demention array.exe
+D:\Soft\Microsoft Visual Studio\Projects\Tests\3 demention array\3 demention array\bin\Debug\3 demention array.pdb
+D:\Soft\Microsoft Visual Studio\Projects\Tests\3 demention array\3 demention array\obj\Debug\3 demention array.csproj.AssemblyReference.cache
+D:\Soft\Microsoft Visual Studio\Projects\Tests\3 demention array\3 demention array\obj\Debug\3 demention array.csproj.SuggestedBindingRedirects.cache
+D:\Soft\Microsoft Visual Studio\Projects\Tests\3 demention array\3 demention array\obj\Debug\3 demention array.csproj.CoreCompileInputs.cache
+D:\Soft\Microsoft Visual Studio\Projects\Tests\3 demention array\3 demention array\obj\Debug\3 demention array.exe
+D:\Soft\Microsoft Visual Studio\Projects\Tests\3 demention array\3 demention array\obj\Debug\3 demention array.pdb

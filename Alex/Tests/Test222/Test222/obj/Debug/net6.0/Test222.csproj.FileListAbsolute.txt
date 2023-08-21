@@ -1,0 +1,15 @@
+D:\Soft\Microsoft Visual Studio\Projects\Tests\Test222\Test222\bin\Debug\net6.0\Test222.exe
+D:\Soft\Microsoft Visual Studio\Projects\Tests\Test222\Test222\bin\Debug\net6.0\Test222.deps.json
+D:\Soft\Microsoft Visual Studio\Projects\Tests\Test222\Test222\bin\Debug\net6.0\Test222.runtimeconfig.json
+D:\Soft\Microsoft Visual Studio\Projects\Tests\Test222\Test222\bin\Debug\net6.0\Test222.dll
+D:\Soft\Microsoft Visual Studio\Projects\Tests\Test222\Test222\bin\Debug\net6.0\Test222.pdb
+D:\Soft\Microsoft Visual Studio\Projects\Tests\Test222\Test222\obj\Debug\net6.0\Test222.csproj.AssemblyReference.cache
+D:\Soft\Microsoft Visual Studio\Projects\Tests\Test222\Test222\obj\Debug\net6.0\Test222.GeneratedMSBuildEditorConfig.editorconfig
+D:\Soft\Microsoft Visual Studio\Projects\Tests\Test222\Test222\obj\Debug\net6.0\Test222.AssemblyInfoInputs.cache
+D:\Soft\Microsoft Visual Studio\Projects\Tests\Test222\Test222\obj\Debug\net6.0\Test222.AssemblyInfo.cs
+D:\Soft\Microsoft Visual Studio\Projects\Tests\Test222\Test222\obj\Debug\net6.0\Test222.csproj.CoreCompileInputs.cache
+D:\Soft\Microsoft Visual Studio\Projects\Tests\Test222\Test222\obj\Debug\net6.0\Test222.dll
+D:\Soft\Microsoft Visual Studio\Projects\Tests\Test222\Test222\obj\Debug\net6.0\refint\Test222.dll
+D:\Soft\Microsoft Visual Studio\Projects\Tests\Test222\Test222\obj\Debug\net6.0\Test222.pdb
+D:\Soft\Microsoft Visual Studio\Projects\Tests\Test222\Test222\obj\Debug\net6.0\Test222.genruntimeconfig.cache
+D:\Soft\Microsoft Visual Studio\Projects\Tests\Test222\Test222\obj\Debug\net6.0\ref\Test222.dll

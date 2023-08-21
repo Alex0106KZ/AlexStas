@@ -1,0 +1,8 @@
+D:\Soft\Microsoft Visual Studio\Projects\Round\Round\bin\Debug\Round.exe.config
+D:\Soft\Microsoft Visual Studio\Projects\Round\Round\bin\Debug\Round.exe
+D:\Soft\Microsoft Visual Studio\Projects\Round\Round\bin\Debug\Round.pdb
+D:\Soft\Microsoft Visual Studio\Projects\Round\Round\obj\Debug\Round.csproj.AssemblyReference.cache
+D:\Soft\Microsoft Visual Studio\Projects\Round\Round\obj\Debug\Round.csproj.SuggestedBindingRedirects.cache
+D:\Soft\Microsoft Visual Studio\Projects\Round\Round\obj\Debug\Round.csproj.CoreCompileInputs.cache
+D:\Soft\Microsoft Visual Studio\Projects\Round\Round\obj\Debug\Round.exe
+D:\Soft\Microsoft Visual Studio\Projects\Round\Round\obj\Debug\Round.pdb

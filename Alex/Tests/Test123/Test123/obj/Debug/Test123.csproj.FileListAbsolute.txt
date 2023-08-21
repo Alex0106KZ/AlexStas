@@ -1,0 +1,8 @@
+D:\Soft\Microsoft Visual Studio\Projects\Tests\Test123\Test123\bin\Debug\Test123.exe.config
+D:\Soft\Microsoft Visual Studio\Projects\Tests\Test123\Test123\bin\Debug\Test123.exe
+D:\Soft\Microsoft Visual Studio\Projects\Tests\Test123\Test123\bin\Debug\Test123.pdb
+D:\Soft\Microsoft Visual Studio\Projects\Tests\Test123\Test123\obj\Debug\Test123.csproj.AssemblyReference.cache
+D:\Soft\Microsoft Visual Studio\Projects\Tests\Test123\Test123\obj\Debug\Test123.csproj.SuggestedBindingRedirects.cache
+D:\Soft\Microsoft Visual Studio\Projects\Tests\Test123\Test123\obj\Debug\Test123.csproj.CoreCompileInputs.cache
+D:\Soft\Microsoft Visual Studio\Projects\Tests\Test123\Test123\obj\Debug\Test123.exe
+D:\Soft\Microsoft Visual Studio\Projects\Tests\Test123\Test123\obj\Debug\Test123.pdb

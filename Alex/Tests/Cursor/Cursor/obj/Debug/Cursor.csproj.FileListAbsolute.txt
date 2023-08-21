@@ -1,0 +1,8 @@
+D:\Soft\Microsoft Visual Studio\Projects\Tests\Cursor\Cursor\bin\Debug\Cursor.exe.config
+D:\Soft\Microsoft Visual Studio\Projects\Tests\Cursor\Cursor\bin\Debug\Cursor.exe
+D:\Soft\Microsoft Visual Studio\Projects\Tests\Cursor\Cursor\bin\Debug\Cursor.pdb
+D:\Soft\Microsoft Visual Studio\Projects\Tests\Cursor\Cursor\obj\Debug\Cursor.csproj.AssemblyReference.cache
+D:\Soft\Microsoft Visual Studio\Projects\Tests\Cursor\Cursor\obj\Debug\Cursor.csproj.SuggestedBindingRedirects.cache
+D:\Soft\Microsoft Visual Studio\Projects\Tests\Cursor\Cursor\obj\Debug\Cursor.csproj.CoreCompileInputs.cache
+D:\Soft\Microsoft Visual Studio\Projects\Tests\Cursor\Cursor\obj\Debug\Cursor.exe
+D:\Soft\Microsoft Visual Studio\Projects\Tests\Cursor\Cursor\obj\Debug\Cursor.pdb
