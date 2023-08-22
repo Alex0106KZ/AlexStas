@@ -1,0 +1,14 @@
+C:\Homework\Summa3\Summa3\obj\Debug\net6.0\Summa3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Homework\Summa3\Summa3\obj\Debug\net6.0\Summa3.AssemblyInfoInputs.cache
+C:\Homework\Summa3\Summa3\obj\Debug\net6.0\Summa3.AssemblyInfo.cs
+C:\Homework\Summa3\Summa3\obj\Debug\net6.0\Summa3.csproj.CoreCompileInputs.cache
+C:\Homework\Summa3\Summa3\bin\Debug\net6.0\Summa3.exe
+C:\Homework\Summa3\Summa3\bin\Debug\net6.0\Summa3.deps.json
+C:\Homework\Summa3\Summa3\bin\Debug\net6.0\Summa3.runtimeconfig.json
+C:\Homework\Summa3\Summa3\bin\Debug\net6.0\Summa3.dll
+C:\Homework\Summa3\Summa3\bin\Debug\net6.0\Summa3.pdb
+C:\Homework\Summa3\Summa3\obj\Debug\net6.0\Summa3.dll
+C:\Homework\Summa3\Summa3\obj\Debug\net6.0\refint\Summa3.dll
+C:\Homework\Summa3\Summa3\obj\Debug\net6.0\Summa3.pdb
+C:\Homework\Summa3\Summa3\obj\Debug\net6.0\Summa3.genruntimeconfig.cache
+C:\Homework\Summa3\Summa3\obj\Debug\net6.0\ref\Summa3.dll
