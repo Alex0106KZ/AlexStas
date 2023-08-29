@@ -1,0 +1,14 @@
+C:\Homework\convertValut\convertValut\bin\Debug\net6.0\convertValut.exe
+C:\Homework\convertValut\convertValut\bin\Debug\net6.0\convertValut.deps.json
+C:\Homework\convertValut\convertValut\bin\Debug\net6.0\convertValut.runtimeconfig.json
+C:\Homework\convertValut\convertValut\bin\Debug\net6.0\convertValut.dll
+C:\Homework\convertValut\convertValut\bin\Debug\net6.0\convertValut.pdb
+C:\Homework\convertValut\convertValut\obj\Debug\net6.0\convertValut.GeneratedMSBuildEditorConfig.editorconfig
+C:\Homework\convertValut\convertValut\obj\Debug\net6.0\convertValut.AssemblyInfoInputs.cache
+C:\Homework\convertValut\convertValut\obj\Debug\net6.0\convertValut.AssemblyInfo.cs
+C:\Homework\convertValut\convertValut\obj\Debug\net6.0\convertValut.csproj.CoreCompileInputs.cache
+C:\Homework\convertValut\convertValut\obj\Debug\net6.0\convertValut.dll
+C:\Homework\convertValut\convertValut\obj\Debug\net6.0\refint\convertValut.dll
+C:\Homework\convertValut\convertValut\obj\Debug\net6.0\convertValut.pdb
+C:\Homework\convertValut\convertValut\obj\Debug\net6.0\convertValut.genruntimeconfig.cache
+C:\Homework\convertValut\convertValut\obj\Debug\net6.0\ref\convertValut.dll
