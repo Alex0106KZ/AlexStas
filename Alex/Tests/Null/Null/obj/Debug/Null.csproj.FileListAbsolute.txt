@@ -1,0 +1,8 @@
+D:\Soft\Microsoft Visual Studio\Projects\Alex\Tests\Null\Null\bin\Debug\Null.exe.config
+D:\Soft\Microsoft Visual Studio\Projects\Alex\Tests\Null\Null\bin\Debug\Null.exe
+D:\Soft\Microsoft Visual Studio\Projects\Alex\Tests\Null\Null\bin\Debug\Null.pdb
+D:\Soft\Microsoft Visual Studio\Projects\Alex\Tests\Null\Null\obj\Debug\Null.csproj.AssemblyReference.cache
+D:\Soft\Microsoft Visual Studio\Projects\Alex\Tests\Null\Null\obj\Debug\Null.csproj.SuggestedBindingRedirects.cache
+D:\Soft\Microsoft Visual Studio\Projects\Alex\Tests\Null\Null\obj\Debug\Null.csproj.CoreCompileInputs.cache
+D:\Soft\Microsoft Visual Studio\Projects\Alex\Tests\Null\Null\obj\Debug\Null.exe
+D:\Soft\Microsoft Visual Studio\Projects\Alex\Tests\Null\Null\obj\Debug\Null.pdb
