@@ -1,0 +1,8 @@
+D:\Soft\Microsoft Visual Studio\Projects\Alex\9 HomeWork\HomeWork9\HomeWork 9.2\bin\Debug\HomeWork 9.2.exe.config
+D:\Soft\Microsoft Visual Studio\Projects\Alex\9 HomeWork\HomeWork9\HomeWork 9.2\bin\Debug\HomeWork 9.2.exe
+D:\Soft\Microsoft Visual Studio\Projects\Alex\9 HomeWork\HomeWork9\HomeWork 9.2\bin\Debug\HomeWork 9.2.pdb
+D:\Soft\Microsoft Visual Studio\Projects\Alex\9 HomeWork\HomeWork9\HomeWork 9.2\obj\Debug\HomeWork 9.2.csproj.AssemblyReference.cache
+D:\Soft\Microsoft Visual Studio\Projects\Alex\9 HomeWork\HomeWork9\HomeWork 9.2\obj\Debug\HomeWork 9.2.csproj.SuggestedBindingRedirects.cache
+D:\Soft\Microsoft Visual Studio\Projects\Alex\9 HomeWork\HomeWork9\HomeWork 9.2\obj\Debug\HomeWork 9.2.csproj.CoreCompileInputs.cache
+D:\Soft\Microsoft Visual Studio\Projects\Alex\9 HomeWork\HomeWork9\HomeWork 9.2\obj\Debug\HomeWork 9.2.exe
+D:\Soft\Microsoft Visual Studio\Projects\Alex\9 HomeWork\HomeWork9\HomeWork 9.2\obj\Debug\HomeWork 9.2.pdb

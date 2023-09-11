@@ -1,0 +1,8 @@
+D:\Soft\Microsoft Visual Studio\Projects\Alex\Tests\enum\enum test\enum test\bin\Debug\enum test.exe.config
+D:\Soft\Microsoft Visual Studio\Projects\Alex\Tests\enum\enum test\enum test\bin\Debug\enum test.exe
+D:\Soft\Microsoft Visual Studio\Projects\Alex\Tests\enum\enum test\enum test\bin\Debug\enum test.pdb
+D:\Soft\Microsoft Visual Studio\Projects\Alex\Tests\enum\enum test\enum test\obj\Debug\Snake.csproj.AssemblyReference.cache
+D:\Soft\Microsoft Visual Studio\Projects\Alex\Tests\enum\enum test\enum test\obj\Debug\Snake.csproj.SuggestedBindingRedirects.cache
+D:\Soft\Microsoft Visual Studio\Projects\Alex\Tests\enum\enum test\enum test\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+D:\Soft\Microsoft Visual Studio\Projects\Alex\Tests\enum\enum test\enum test\obj\Debug\enum test.exe
+D:\Soft\Microsoft Visual Studio\Projects\Alex\Tests\enum\enum test\enum test\obj\Debug\enum test.pdb

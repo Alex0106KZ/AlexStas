@@ -1,0 +1,8 @@
+D:\Soft\Microsoft Visual Studio\Projects\Alex\Tests\testParams\testParams\bin\Debug\testParams.exe.config
+D:\Soft\Microsoft Visual Studio\Projects\Alex\Tests\testParams\testParams\bin\Debug\testParams.exe
+D:\Soft\Microsoft Visual Studio\Projects\Alex\Tests\testParams\testParams\bin\Debug\testParams.pdb
+D:\Soft\Microsoft Visual Studio\Projects\Alex\Tests\testParams\testParams\obj\Debug\testParams.csproj.AssemblyReference.cache
+D:\Soft\Microsoft Visual Studio\Projects\Alex\Tests\testParams\testParams\obj\Debug\testParams.csproj.SuggestedBindingRedirects.cache
+D:\Soft\Microsoft Visual Studio\Projects\Alex\Tests\testParams\testParams\obj\Debug\testParams.csproj.CoreCompileInputs.cache
+D:\Soft\Microsoft Visual Studio\Projects\Alex\Tests\testParams\testParams\obj\Debug\testParams.exe
+D:\Soft\Microsoft Visual Studio\Projects\Alex\Tests\testParams\testParams\obj\Debug\testParams.pdb

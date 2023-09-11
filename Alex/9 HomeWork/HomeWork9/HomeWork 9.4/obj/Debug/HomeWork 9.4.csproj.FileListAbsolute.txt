@@ -1,0 +1,8 @@
+D:\Soft\Microsoft Visual Studio\Projects\Alex\9 HomeWork\HomeWork9\HomeWork 9.4\bin\Debug\HomeWork 9.4.exe.config
+D:\Soft\Microsoft Visual Studio\Projects\Alex\9 HomeWork\HomeWork9\HomeWork 9.4\bin\Debug\HomeWork 9.4.exe
+D:\Soft\Microsoft Visual Studio\Projects\Alex\9 HomeWork\HomeWork9\HomeWork 9.4\bin\Debug\HomeWork 9.4.pdb
+D:\Soft\Microsoft Visual Studio\Projects\Alex\9 HomeWork\HomeWork9\HomeWork 9.4\obj\Debug\HomeWork 9.4.csproj.AssemblyReference.cache
+D:\Soft\Microsoft Visual Studio\Projects\Alex\9 HomeWork\HomeWork9\HomeWork 9.4\obj\Debug\HomeWork 9.4.csproj.SuggestedBindingRedirects.cache
+D:\Soft\Microsoft Visual Studio\Projects\Alex\9 HomeWork\HomeWork9\HomeWork 9.4\obj\Debug\HomeWork 9.4.csproj.CoreCompileInputs.cache
+D:\Soft\Microsoft Visual Studio\Projects\Alex\9 HomeWork\HomeWork9\HomeWork 9.4\obj\Debug\HomeWork 9.4.exe
+D:\Soft\Microsoft Visual Studio\Projects\Alex\9 HomeWork\HomeWork9\HomeWork 9.4\obj\Debug\HomeWork 9.4.pdb
